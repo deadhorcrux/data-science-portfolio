@@ -10,6 +10,7 @@ ML enengineer(Medical diagnostics) in Saratovskiy Gosudarstvennyy Universitet Im
 1. Housing Prices Competition for Kaggle Learn Users, **Score:** *16400*, place: 19063/78318
 2. Binary Classification of Machine Failures, **Score:** *0.96*, place: 545/1505
 3. Beeline credit scoring competition 2, **Score:** *0.83*, Late submission
+
 etc ...
 ## RecSys Dataset
 1. IMDB
