@@ -17,7 +17,7 @@ etc ...
 2. Netflix Prize Data
 3. Mobile dataset
 
-**Looking for a job (pre middle) in Saratov or remotely**
+**Looking for a job in Saratov or remotely**
 
 **tg: @deadhorcrux**
 
