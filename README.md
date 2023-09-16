@@ -1,6 +1,6 @@
 # ML engineer / Data Scientist portfolio
 ## Work Experience
-ML enengineer(Medical diagnostics) in Saratov State University (May 2023, Until Now)
+ML enengineer(Medical diagnostics) in Saratov State University (2022, Until Now)
 ## Time Series competitions scores:
 1. Forecasting Mini-Course Sales Playground Series - Season 3, Episode 19. **Score:** *40.19*, Late submission
 2. Rossmann Store Sales, Forecast sales using store, promotion, and competitor data. **Score:** *0.24*, Late submission
