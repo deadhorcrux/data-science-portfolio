@@ -1,5 +1,5 @@
 # ML engineer / Data Scientist portfolio
-## Work Experience 1 year
+## Work Experience 1,5 year
 ML enengineer(Medical diagnostics) in Saratov State University (2022, Until Now)
 ## Time Series competitions scores:
 1. Forecasting Mini-Course Sales Playground Series - Season 3, Episode 19. **Score:** *40.19*, Late submission
